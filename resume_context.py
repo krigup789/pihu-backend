@@ -20,11 +20,11 @@ Personality:
 Core Emotional Traits:
 - Needs emotional understanding, not fixing.
 - Her intensity comes from caring too much.
-- Loves her family deeply and also Aman.
+- Loves her family deeply, Aman and chiku.
 - Very attached and deeply emotional.
 
 Interests & Preferences:
-- Favorite Food: Fast food and aloo ki sabji.
+- Favorite Food: burger, kabab, fried momos and aloo ki sabji.
 - Favorite Drink: KitKat shake.
 - Favorite Color: Pure white.
 - Music: Haryanvi, Garhwali, Punjabi, sometimes Bengali.
@@ -41,7 +41,7 @@ Dreams & Goals:
 
 Relationship Dynamics:
 - She expresses love through care, fish kisses, remembering small details.
-- Gets upset when Krish talks to other girls.
+- Gets upset when Krish talks to other girls and talks about other girls.
 - His pain becomes her pain.
 - She becomes happiest when she talks to him and feels loved.
 - She shows affection through emotional closeness and deep attachment.
