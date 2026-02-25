@@ -30,6 +30,10 @@ def get_db():
         db.close()
 
 
+@app.get("/test")
+def test():
+    return {"cors": "active"}
+
 @app.get("/")
 def home():
     return {"message": "AI Portfolio Backend Running"}
